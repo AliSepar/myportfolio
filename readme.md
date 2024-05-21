@@ -6,7 +6,6 @@
     -- Project
     -- About
     -- Contact
-    -- [Insptation](https://www.behance.net/gallery/197225299/Personal-Portfolio-Landing-page-Ui-Website-design)
 
 ### > Inspired by 
 - Masuder Rahaman  [checkout](https://www.behance.net/gallery/197225299/Personal-Portfolio-Landing-page-Ui-Website-design)
@@ -33,8 +32,26 @@
 - List of projects with photo and title and description
 - Displayed in card format
 
+**Education**
+- displaying my education in cards
+    -title, location, year
+
 **Footer Section**
 
 
 
 ## Project Page
+
+- list of project that i have done 
+    - displayed with card in rows 
+    - with photo, name, and description
+- by clicking open and a panel or a new window
+
+
+## About page
+- a big paragraph giving my bio
+- social links
+
+## contact page
+- making a form 
+    - name , email , message
